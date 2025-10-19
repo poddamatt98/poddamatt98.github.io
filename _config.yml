@@ -1,3 +1,13 @@
-theme: jekyll-theme-minimal
-title: Matteo's homepage
-description: poddamatt98 homepage
+title: Matteo Podda's website
+email: podda.matt@gmail.com
+description: >-
+  My personal website :)
+domain: poddamatt98.github.io
+baseurl: ""
+url: https://poddamatt98.github.io
+github_username:  poddamatt98
+
+remote_theme: pages-themes/hacker@v0.2.0
+plugins:
+  - jekyll-feed
+  - jekyll-remote-theme
